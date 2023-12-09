@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # largest_number_app.py
 import streamlit as st
 
@@ -20,6 +20,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
-
->>>>>>> 4a99fb8617a36d8e1fa90f0fe90449300bef7972
